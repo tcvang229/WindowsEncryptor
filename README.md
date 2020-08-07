@@ -1,4 +1,4 @@
-# Windows Encryptor bbg
+# Windows Encryptor
 
 Developers:
 Derreck Sengkhammee
